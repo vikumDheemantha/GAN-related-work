@@ -4,3 +4,4 @@ celeb_dataset/celeba
 StyleGAN_generated
 data/
 fake-detection-cooccurrenct/data/
+fake-detection-cooccurrenct/model/
