@@ -15,3 +15,4 @@ print('start extraction')
 with ZipFile("celeb_dataset/data.zip", "r") as zipobj:
     zipobj.extractall("celeb_dataset")
 print('end extraction')
+os.remove('celeb_dataset/data.zip')

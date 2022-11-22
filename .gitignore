@@ -1,3 +1,6 @@
 celeb_dataset
 celeb_dataset/
 celeb_dataset/celeba
+StyleGAN_generated
+data/
+fake-detection-cooccurrenct/data/
